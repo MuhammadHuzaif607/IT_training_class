@@ -1,1 +1,1 @@
-This Repositiory includes all classes of IT traning class
+This Repositiory includes all Lectures of Japanese IT traning class.
